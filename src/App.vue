@@ -1,24 +1,16 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
-    <TodoApp></TodoApp>
+    <HomePage></HomePage>
   </div>
 </template>
 
 <script>
-import TodoApp from './components/TodoApp'
+import HomePage from './components/HomePage'
 
 export default {
   name: 'app',
   components: {
-    TodoApp
+    HomePage
   }
 }
 </script>
-
-<style>
-#app {
-  text-align: center;
-  margin-top: 60px;
-}
-</style>
