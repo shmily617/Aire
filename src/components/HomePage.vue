@@ -8,8 +8,8 @@
 
     <section class="air">
       <div class="outer">
-        <div class="temperature">70</div>
-        <div class="pm2p5">500</div>
+        <div class="temperature">18</div>
+        <div class="pm2p5">200</div>
       </div>
       <div class="inner">39</div>
     </section>
