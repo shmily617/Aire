@@ -1,4 +1,4 @@
-<style src="./HomePage.css"></style>
+<style src="./HomePage.css" scoped></style>
 
 <template>
   <section class="home-page">
